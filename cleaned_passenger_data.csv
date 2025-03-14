@@ -1,0 +1,10 @@
+booking_id,passenger_name,passport_number,email,phone_number,flight_number,departure_airport,departure_time_utc,arrival_airport,arrival_time_utc,ticket_class,seat_number,ticket_price_usd,payment_status
+OB12345,John Smith,P1234567,john.smith@example.com,+155-512-34567,AI101,,Unknown,,Unknown,Economy,12A,450.75,Completed
+OB12346,Maria Garcia,P7654321,maria.garcia@example.com,555-987-6543,AI101,,Unknown,,Unknown,Business,Unassigned,850.0,Completed
+OB12347,Robert Johnson,P2468013,robert.johnson@example.com,+155-523-45678,AI102,,Unknown,,Unknown,Economy,24C,375.5,Completed
+OB12348,Emma Wilson,P1357924,emma.wilson@example.com,555-345-6789,AI103,,Unknown,,Unknown,First,Unassigned,1250.0,Completed
+OB12349,Mohammed Ali,P8642097,mohammed.ali@example.com,+155-545-67890,AI104,,Unknown,,Unknown,Economy,8F,425.25,Completed
+TP54321,Emily Brown,P3698521,,,AI101,,Unknown,,Unknown,Economy,14B,200.0,
+WI78901,Lucas Nguyen,P5792461,,,AI101,,Unknown,,Unknown,Economy,25E,275.5,
+TP54323,Sophia Rodriguez,P8523697,,,AI103,,Unknown,,Unknown,Business,18D,500.0,
+WI78902,Noah Kim,P6428153,,,AI104,,Unknown,,Unknown,Economy,16B,299.5,

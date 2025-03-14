@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookings>
+  <booking>
+    <booking_id>TP54321</booking_id>
+    <passenger_name>Emily Brown</passenger_name>
+    <passport_number>P3698521</passport_number>
+    <flight_number>AI101</flight_number>
+    <departure_date>2025-03-15</departure_date>
+    <departure_time>08:30 AM</departure_time>
+    <arrival_time>11:45 AM</arrival_time>
+    <seat_number>14B</seat_number>
+    <ticket_class>Economy</ticket_class>
+    <ticket_price_usd>465.50</ticket_price_usd>
+    <contact_phone>(555) 567-8901</contact_phone>
+    <contact_email>emily.brown@example.com</contact_email>
+    <frequent_flyer_number>FF123456</frequent_flyer_number>
+    <gate_number>G12</gate_number>
+    <aircraft_type>Boeing 737-800</aircraft_type>
+  </booking>
+  <booking>
+    <booking_id>TP54322</booking_id>
+    <passenger_name>David Chen</passenger_name>
+    <passport_number>P7412589</passport_number>
+    <flight_number>AI102</flight_number>
+    <departure_date>2025-03-16</departure_date>
+    <departure_time>14:15 PM</departure_time>
+    <arrival_time>16:30 PM</arrival_time>
+    <seat_number>5A</seat_number>
+    <ticket_class></ticket_class>
+    <ticket_price_usd>890.75</ticket_price_usd>
+    <contact_phone>555.678.9012</contact_phone>
+    <contact_email>david.chen@example.com</contact_email>
+    <frequent_flyer_number>FF789012</frequent_flyer_number>
+    <gate_number>G7</gate_number>
+    <aircraft_type>Airbus A320</aircraft_type>
+  </booking>
+  <booking>
+    <booking_id>TP54323</booking_id>
+    <passenger_name>Sophia Rodriguez</passenger_name>
+    <passport_number>P8523697</passport_number>
+    <flight_number>AI103</flight_number>
+    <departure_date>2025-03-17</departure_date>
+    <departure_time>19:45 PM</departure_time>
+    <arrival_time>22:10 PM</arrival_time>
+    <seat_number>18D</seat_number>
+    <ticket_class>Business</ticket_class>
+    <ticket_price_usd>925.00</ticket_price_usd>
+    <contact_phone>(555) 789-0123</contact_phone>
+    <contact_email>sophia.rodriguez@example.com</contact_email>
+    <frequent_flyer_number>FF345678</frequent_flyer_number>
+    <gate_number>G15</gate_number>
+    <aircraft_type>Boeing 787</aircraft_type>
+  </booking>
+  <booking>
+    <booking_id>TP54324</booking_id>
+    <passenger_name>James Wilson</passenger_name>
+    <passport_number>P9638527</passport_number>
+    <flight_number>AI104</flight_number>
+    <departure_date>2025-03-18</departure_date>
+    <departure_time>06:20 AM</departure_time>
+    <arrival_time>09:35 AM</arrival_time>
+    <seat_number>22F</seat_number>
+    <ticket_class></ticket_class>
+    <ticket_price_usd>415.25</ticket_price_usd>
+    <contact_phone>555-890-1234</contact_phone>
+    <contact_email>james.wilson@example.com</contact_email>
+    <frequent_flyer_number>FF901234</frequent_flyer_number>
+    <gate_number>G9</gate_number>
+    <aircraft_type>Airbus A321</aircraft_type>
+  </booking>
+  <booking>
+    <booking_id>TP54325</booking_id>
+    <passenger_name>Aisha Patel</passenger_name>
+    <passport_number>P7539514</passport_number>
+    <flight_number>AI105</flight_number>
+    <departure_date>2025-03-19</departure_date>
+    <departure_time>11:30 AM</departure_time>
+    <arrival_time>13:45 PM</arrival_time>
+    <seat_number>9C</seat_number>
+    <ticket_class>First</ticket_class>
+    <ticket_price_usd>1350.00</ticket_price_usd>
+    <contact_phone>(555) 901-2345</contact_phone>
+    <contact_email>aisha.patel@example.com</contact_email>
+    <frequent_flyer_number>FF567890</frequent_flyer_number>
+    <gate_number>G3</gate_number>
+    <aircraft_type>Boeing 777-300ER</aircraft_type>
+  </booking>
+</bookings>
